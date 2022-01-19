@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642595798 source:e:\guess the number\guess the number\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
